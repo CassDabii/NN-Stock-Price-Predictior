@@ -1,4 +1,6 @@
 # NN-Stock-Price-Predictior
+PyTorch Stock Price Predictor - Final Year Project (First-Class Honours)
+During my final year project, I utilised PyTorch to create recurrent neural network models, evaluating LSTM and GRU architecture for forecasting stock prices. I employed text visual hybrid design to produce a coherent development story and optimal model structure. To ensure success, I drew upon recent academic material to guide data classification, sample size and model evaluation metric decisions. My hard work and dedication led to receiving a first-class honours for the project, and I take pride in applying my expertise in machine learning to solve complex problems.
 
 # Methodolgy OSEMN
 Although the diagram below depicts a linear model this methodology is iterative by nature.
